@@ -6,15 +6,15 @@ permalink: /software/
 
 To add your software to the list of flow and motion software, please email XXX@email.com
 
-# Acquisition
+## Acquisition
 
-# Reconstruction
+## Reconstruction
 
-# Post-Processing
+## Post-Processing
 
-# Analysis
+## Analysis
 
-### Atlas Tool
+#### Atlas Tool
 [Link](https://github.com/alexbarks/atlas-tool)
 
 A tool for generating WSS heatmaps based on the atlas method.
