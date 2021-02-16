@@ -4,7 +4,7 @@ title: Software
 permalink: /software/
 ---
 
-To add your software to the list of flow and motion software, please email XXX@email.com
+To add your software to the list of flow and motion software, please email flowmotionmr@gmail.com
 
 ## Acquisition
 
