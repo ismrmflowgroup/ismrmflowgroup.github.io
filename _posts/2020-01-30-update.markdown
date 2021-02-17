@@ -1,8 +1,0 @@
----
-layout: post
-title:  "News about flow!!"
-date:   2020-01-30 18:18:40 -0800
-categories: update
----
-
-Heres are new site about the ISMRM Flow and Motion Study Group!
